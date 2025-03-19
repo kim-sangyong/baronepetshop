@@ -1,0 +1,76 @@
+.banner {
+    position: relative;
+    margin-top: 20vh;
+    .bannerBox {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+      
+        strong {
+            font-size: 3rem;
+         }
+         .bannerImg {
+             width: 60%;
+         }
+    }
+}
+
+.search {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    .searchNav {
+       width: 65%;
+       .searchUl {
+        position: relative;
+        right: 27px;
+        list-style-type: none;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+        .puppyLink {
+            cursor: pointer;
+            font-size: 3rem;
+            text-decoration: none;
+            color: inherit;
+        }
+       }
+    }
+}
+
+.puppyCon {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+    .puppyBox {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        justify-items: center;
+        align-items: center;
+        gap: 20px;
+        list-style-type: none;
+        padding: 0;
+        width: 60%;
+        margin-bottom: 50px;
+        text-align: center;
+        font-size: 2.5rem;
+
+        .puppyLink {
+            text-decoration: none;
+            color: inherit;
+
+            .puppyImg {
+                width: 100%;
+                border-radius: 7%;
+            }
+        }
+    }
+}
+
+@import "./responsive/MainPage-Responsive.module.scss";

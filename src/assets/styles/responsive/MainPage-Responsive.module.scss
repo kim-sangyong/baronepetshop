@@ -1,0 +1,116 @@
+// 모바일
+@media screen and (max-width: 479px) {
+    .banner {
+        .bannerBox {
+            strong {
+                font-size: 5.5vw;
+            }
+            .bannerImg {
+                width: 100%;
+            }
+        }
+    }
+    .search {
+        .searchNav {
+            .searchUl { 
+               gap: 15px;
+                .puppyLink {
+                    font-size: 5.2vw;
+                }
+            }
+        }
+    }
+    .puppyCon {
+        .puppyBox {
+            width: 90%;
+            font-size: 4vw;
+        }
+    }
+}
+
+/* 모바일 가로 & 테블릿 세로 (해상도 480px ~ 767px)*/
+@media screen and (min-width:480px) and (max-width:767px) {
+    .banner {
+        .bannerBox {
+            strong {
+                font-size: 2.6rem;
+            }
+            .bannerImg {
+                width: 100%;
+            }
+        }
+    }
+    .search {
+        .searchNav {
+            .searchUl { 
+                .puppyLink {
+                    font-size: 2.6rem;
+                }
+            }
+        }
+    }
+    .puppyCon {
+        .puppyBox {
+            width: 85%;
+            font-size: 2rem;
+        }
+    }
+}
+
+/* 테블릿 가로 (해상도 768px ~ 1023px)*/
+@media screen and (min-width:768px) and (max-width:1023px) { 
+    .banner {
+        .bannerBox {
+            strong {
+                font-size: 2.8rem;
+            }
+            .bannerImg {
+                width: 100%;
+            }
+        }
+    }
+    .search {
+        .searchNav {
+            .searchUl { 
+                .puppyLink {
+                    font-size: 2.8rem;
+                }
+            }
+        }
+    }
+    .puppyCon {
+        .puppyBox {
+            width: 88%;
+            font-size: 2.1rem;
+        }
+    }
+}
+
+/* 노트북 & 테블릿 가로 (해상도 1024px ~ 1279px)*/
+@media screen and (min-width:1024px) and (max-width:1279px) { 
+    .banner {
+        .bannerBox {
+            strong {
+                font-size: 3rem;
+            }
+            .bannerImg {
+                width: 100%;
+            }
+        }
+    }
+    .search {
+        .searchNav {
+            .searchUl { 
+                .puppyLink {
+                    font-size: 2.8rem;
+                }
+            }
+        }
+    }
+    .puppyCon {
+        .puppyBox {
+            width: 85%;
+            font-size: 2rem;
+        }
+    }
+}

@@ -1,0 +1,79 @@
+// 모바일
+@media screen and (max-width: 479px) {
+    .fixedMenu {
+        right: 20px;
+        gap: 0;
+        a {
+            width: 60px;
+
+            .katalkImg {
+                width: 100%;
+               
+            }
+            .callImg {
+                width: 100%;
+                
+            }
+        }
+    }
+}
+
+/* 모바일 가로 & 테블릿 세로 (해상도 480px ~ 767px)*/
+@media screen and (min-width:480px) and (max-width:767px) {
+    .fixedMenu {
+        right: 20px;
+        gap: 10px;
+        a {
+            width: 70px;
+
+            .katalkImg {
+                width: 100%;
+               
+            }
+            .callImg {
+                width: 100%;
+                
+            }
+        }
+    }
+}
+
+/* 테블릿 가로 (해상도 768px ~ 1023px)*/
+@media screen and (min-width:768px) and (max-width:1023px) { 
+    .fixedMenu {
+        right: 20px;
+        gap: 12px;
+        a {
+            width: 75px;
+
+            .katalkImg {
+                width: 100%;
+               
+            }
+            .callImg {
+                width: 100%;
+                
+            }
+        }
+    }
+}
+
+/* 노트북 & 테블릿 가로 (해상도 1024px ~ 1279px)*/
+@media screen and (min-width:1024px) and (max-width:1279px) { 
+    .fixedMenu {
+        right: 30px;
+        gap: 12px;
+        a {
+            width: 80px;
+
+            .katalkImg {
+                width: 100%;
+               
+            }
+            .callImg {
+                width: 100%;
+                
+            }
+        }
+    }
+}
