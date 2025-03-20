@@ -35,12 +35,12 @@ function MainPage () {
                 <meta name="keywords" content="강아지, 분양, 비숑, 말티즈, 푸들, 펫샵, 강아지 키우기, 귀여운 강아지" />
                 <meta property="og:title" content="바로네 펫샵 - 강아지 분양" />
                 <meta property="og:description" content="바로네 펫샵에서 다양한 강아지 품종을 만나보세요." />
-                {/* <meta property="og:image" content="https://yourwebsite.com/path/to/image.jpg" /> */}
+                <meta property="og:image" content="https://raw.githubusercontent.com/kim-sangyong/baronepetshop/main/src/assets/images/maltese/MalteseOne.jpg" />
                 <meta property="og:url" content="https://kim-sangyong.github.io/" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="바로네 펫샵 - 강아지 분양" />
                 <meta name="twitter:description" content="바로네 펫샵에서 다양한 품종의 강아지를 분양받으세요." />
-                {/* <meta name="twitter:image" content="https://yourwebsite.com/path/to/image.jpg" /> */}
+                <meta name="twitter:image" content="https://raw.githubusercontent.com/kim-sangyong/baronepetshop/main/src/assets/images/maltese/MalteseOne.jpg" />
             </Helmet>
         <section className={styles.banner}>
             <div className={styles.bannerBox}>
