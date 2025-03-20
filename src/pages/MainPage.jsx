@@ -11,7 +11,7 @@ import MalteseData from "../data/MalteseData.js";
 
 
 function MainPage () {
-    const [selectedBreed, setSelectedBreed] = useState('bichon'); // 선택된 강아지 종류 (비숑 기본값)
+    const [selectedBreed, setSelectedBreed] = useState('bichon'); // 디폴트 비숑
 
     // 선택된 품종에 따른 데이터 변경
     const getBreedData = () => {

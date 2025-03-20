@@ -3,13 +3,13 @@
     flex-direction: column;
     position: fixed;
     gap: 20px;
-    bottom: 80px; /* 화면 하단에서 20px 떨어지게 */
-    right: 40px;  /* 화면 오른쪽에서 20px 떨어지게 */
+    bottom: 80px;
+    right: 40px;
     z-index: 1;
     
     a {
-        width: 85px;  /* 고정된 크기로 설정 */
-        height: 85px; /* 고정된 크기로 설정 */
+        width: 85px;
+        height: 85px;
 
         .katalkImg {
             width: 100%;

@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# 바로네 펫샵 - 강아지 분양 사이트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 📎 배포 URL : https://kim-sangyong.github.io/baronepetshop/
+---
+<br />
 
-## Available Scripts
+## 📝 프로젝트 소개
+- 프로젝트의 주요 목표는 웹 페이지의 반응형 디자인을 효과적으로 구현하는 것이었으며<br /> 
+  다양한 디바이스 환경에서 유용하게 사용할 수 있는 웹사이트를 만들었습니다. <br />
+  <br />
+- UI 및 레이아웃 구조를 완성했으며 회원가입, 로그인 등 헤더의 기능은 <br />
+   구현 되지 않았으며 강아지 품종 선택의 기능만 구현되었습니다. <br />
+<br />
 
-In the project directory, you can run:
+## 🙎‍♂️ 팀원 구성
+- 1인 개발
+- 개발 기간 : 2025-3-18 ~ 2025-3-20 
+<br />
+<br />
 
-### `npm start`
+## 🖥️ 개발 환경
+- Visual Studio Code ( VS Code )
+- React
+- Git
+- Figma, Adobe Photoshop
+- npm 
+<br />
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✏️ 기술
+- React
+- HTML 5
+- SCSS
+- CSS 3
+- JavaScript
+- PhotoShop
+<br />
+<br />
+## 📌 1인 개발 기획
+- 반응형 웹 디자인에 대한 이해를 높이고 다양한 화면 크기와 디바이스에서 최적화된 UI를 구현하는 데 중점을 두었습니다.
+  <br /><br />
+- 프로젝트 기획 초기부터 반응형 레이아웃을 고려하여 전체적인 사이트 구조를 설계하고 SCSS와 미디어 쿼리를 활용해 <br /> 
+  다양한 해상도에서 일관된 사용자 경험을 제공할 수 있도록 했습니다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- react-helmet-async를 활용하여 React 애플리케이션에서 페이지별로 title과 meta 태그를 관리하고<br /> 
+  각 페이지에 맞는 SEO 최적화된 정보를 제공했습니다.
+<br />
+<br />
+## 📢 프로젝트 후기
+반응형에 약한 부분이 있었습니다. 특별한 기능, 페이지 이동 없이 오직 반응형 레이아웃에만 집중을 한 결과 <br />
+반응형 레이아웃에 이해를 높일 수 있었고 다양한 디바이스에서 최적화된 레이아웃을 구현할 수 있었습니다. <br />
+앞으로도 더 나은 반응형 웹사이트를 제작하기 위해 지속적으로 개인 프로젝트를 진행하며 반응형 웹에 대한 공부를 계속해 나갈 것입니다.

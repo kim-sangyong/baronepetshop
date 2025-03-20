@@ -21,7 +21,6 @@ function Header() {
             <nav className={styles.content}>
                 <ul className={styles.contentUl}>
                     <li><Link to="/#" className={styles.contentLink}>강아지 분양</Link></li>
-                    {/* <li><Link to="/cat" className={styles.contentLink}>고양이 분양</Link></li> */}
                     <li><Link to="/#" className={styles.contentLink}>병원/훈련소</Link></li>
                     <li><Link to="/#" className={styles.contentLink}>분양 Tip</Link></li>
                     <li><Link to="/#" className={styles.contentLink}>커뮤니티</Link></li>
