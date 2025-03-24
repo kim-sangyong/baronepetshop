@@ -48,8 +48,7 @@
 <br />
 
 
-- react-helmet-async를 활용하여 React 애플리케이션에서 페이지별로 title과 meta 태그를 관리하고<br /> 
-  각 페이지에 맞는 SEO 최적화된 정보를 제공했습니다.
+- meta 태그를 적용하여 SEO 최적화된 정보를 제공했습니다.
 <br />
 <br />
 
