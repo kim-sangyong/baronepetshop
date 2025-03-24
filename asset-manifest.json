@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/baronepetshop/static/css/main.e5cce661.css",
-    "main.js": "/baronepetshop/static/js/main.cc6abc49.js",
+    "main.js": "/baronepetshop/static/js/main.3b5bb8c3.js",
     "static/js/453.52f74156.chunk.js": "/baronepetshop/static/js/453.52f74156.chunk.js",
     "static/media/MalteseSix.jpg": "/baronepetshop/static/media/MalteseSix.0718cb3b3505fd6e12ac.jpg",
     "static/media/PoodleThree.jpg": "/baronepetshop/static/media/PoodleThree.a329c4608d7f6caf42e5.jpg",
@@ -25,14 +25,13 @@
     "static/media/CallTwo.png": "/baronepetshop/static/media/CallTwo.8b3aaf4b44fa5585f2b6.png",
     "static/media/Kakaotalk.png": "/baronepetshop/static/media/Kakaotalk.0def147c09b3c9cea94c.png",
     "static/media/Foot.png": "/baronepetshop/static/media/Foot.f5ca12950d8b3f7fab2a.png",
-    "static/media/logo.svg": "/baronepetshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/baronepetshop/index.html",
     "main.e5cce661.css.map": "/baronepetshop/static/css/main.e5cce661.css.map",
-    "main.cc6abc49.js.map": "/baronepetshop/static/js/main.cc6abc49.js.map",
+    "main.3b5bb8c3.js.map": "/baronepetshop/static/js/main.3b5bb8c3.js.map",
     "453.52f74156.chunk.js.map": "/baronepetshop/static/js/453.52f74156.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5cce661.css",
-    "static/js/main.cc6abc49.js"
+    "static/js/main.3b5bb8c3.js"
   ]
 }
