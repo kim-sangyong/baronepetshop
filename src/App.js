@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import { HelmetProvider } from 'react-helmet-async';
 import { BrowserRouter } from 'react-router-dom';
 import Header from "./components/Header.jsx";
 import MainPage from "./pages/MainPage.jsx";
@@ -8,7 +6,6 @@ import './App.css';
 
 function App() {
   return (
-      <HelmetProvider>
         <BrowserRouter>
           <div className="App">
             <Header />
@@ -16,7 +13,6 @@ function App() {
             <Footer />
           </div>
         </BrowserRouter>
-      </HelmetProvider>
   );
 }
 
