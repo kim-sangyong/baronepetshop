@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import styles from "../assets/styles/Header.module.scss";
 import Foot from "../assets/images/Foot.png";
 
-function Header() {
+const Header = () => {
     return(
         <header className={styles.headerCon}>
             <div className={styles.header}>

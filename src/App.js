@@ -4,7 +4,7 @@ import MainPage from "./pages/MainPage.jsx";
 import Footer from "./components/Footer.jsx";
 import './App.css';
 
-function App() {
+const App = () => {
   return (
         <BrowserRouter>
           <div className="App">

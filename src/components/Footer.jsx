@@ -3,7 +3,7 @@ import styles from "../assets/styles/Footer.module.scss";
 import Foot from "../assets/images/Foot.png";
 import Call from "../assets/images/Call.png";
 
-function Footer() {
+const Footer = () => {
     return(
         <footer className={styles.footerCon}>
             <div className={styles.footer}>

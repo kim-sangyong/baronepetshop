@@ -3,7 +3,7 @@ import styles from "../assets/styles/FixedMenu.module.scss";
 import Kakaotalk from "../assets/images/Kakaotalk.png";
 import CallTwo from "../assets/images/CallTwo.png";
 
-function FixedMenu () {
+const FixedMenu = () => {
     return(
         <div className={styles.fixedMenu}>
             <a href="#" target="_blank" rel="noopener noreferrer">
